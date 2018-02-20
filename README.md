@@ -28,3 +28,7 @@ Los colores de las conexiones se corresponden con los colores de los cables de L
 
 **Advertencia**:
 > La tensión de bus del sensor de color EV3 es de 5v.
+
+## Creditos
+Esta librería es una modificación de la librería EV3UARTSensor de Lawrie Griffiths. 
+<https://github.com/DexterInd/EV3_Dexter_Industries_Sensors/tree/master/EV3_arduino/EV3UARTSensor>
